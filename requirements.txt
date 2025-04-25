@@ -1,0 +1,4 @@
+ollama
+langchain-ollama
+langgraph
+numpy
